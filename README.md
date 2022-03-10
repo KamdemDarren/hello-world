@@ -1,4 +1,4 @@
-# hello-world
+# Ease Computing
 Set of batch scripts to help manage PC computers running Windows 10+.
 Removes bloatware, malware, cached files etc. thereby increasing the efficiency of the system.
 
